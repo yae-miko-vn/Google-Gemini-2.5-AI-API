@@ -1,4 +1,4 @@
-```markdown
+
 # AI Chat Backend
 
 A Flask-based web service that provides an AI chat interface using Google's Gemini API with multi-language support and rate limiting.
