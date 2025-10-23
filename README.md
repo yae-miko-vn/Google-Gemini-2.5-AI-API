@@ -101,4 +101,3 @@ The server will start on `http://0.0.0.0:5000`
 Developed by @yae-miko-vn
 
 **Note**: This code contains a hardcoded API key which is not recommended for production use. Consider using environment variables or secure configuration management for production deployments.
-```
